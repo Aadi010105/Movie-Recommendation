@@ -95,14 +95,6 @@ jupyter notebook
 
 ---
 
-### 🧪 Testing
-
-Since this is a Jupyter-based project, testing is done by manually evaluating the output of cells. For additional test scripts or automation:
-
-```bash
-# Example: Add assertions or run test datasets manually
-```
-
 ---
 
 ## 📌 Project Roadmap
